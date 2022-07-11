@@ -1,0 +1,30 @@
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\My Browser.exe.config
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\My Browser.exe
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\My Browser.pdb
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\EasyTabs.dll
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Svg.dll
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Win32Interop.User32.dll
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\EasyTabs.xml
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Svg.pdb
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Svg.xml
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Win32Interop.User32.pdb
+C:\Users\Ciri\source\repos\My Browser\My Browser\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\Ciri\source\repos\My Browser\My Browser\obj\Debug\My Browser.csproj.AssemblyReference.cache
+C:\Users\Ciri\source\repos\My Browser\My Browser\obj\Debug\My Browser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ciri\source\repos\My Browser\My Browser\obj\Debug\My_Browser.frmMain.resources
+C:\Users\Ciri\source\repos\My Browser\My Browser\obj\Debug\My_Browser.Properties.Resources.resources
+C:\Users\Ciri\source\repos\My Browser\My Browser\obj\Debug\My Browser.csproj.GenerateResource.cache
+C:\Users\Ciri\source\repos\My Browser\My Browser\obj\Debug\My Browser.csproj.CoreCompileInputs.cache
+C:\Users\Ciri\source\repos\My Browser\My Browser\obj\Debug\My Browser.csproj.CopyComplete
+C:\Users\Ciri\source\repos\My Browser\My Browser\obj\Debug\My Browser.exe
+C:\Users\Ciri\source\repos\My Browser\My Browser\obj\Debug\My Browser.pdb
